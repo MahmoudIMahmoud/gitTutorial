@@ -3,3 +3,4 @@ op1,op2,operation,expected
 1,1,MULTIPLICATION,1
 10,3,MODULO,1
 10,2,MODULO,0
+10,7,MODULO,3
