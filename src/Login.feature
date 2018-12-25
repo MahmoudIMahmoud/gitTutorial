@@ -1,4 +1,5 @@
 Feature: Login
+	@SmokeTest
 	Scenario: Login with correct credentials
 		Given I navigate to the login page
 		And I entere user name as "admin" and password as "demo123"
